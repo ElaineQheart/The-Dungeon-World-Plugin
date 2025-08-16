@@ -1,0 +1,10 @@
+name: TheDungeon
+version: '1.0'
+main: me.elaineqheart.theDungeon.TheDungeon
+api-version: '1.21'
+authors: [ ElaineQheart ]
+website: https://www.youtube.com/@elaineqheart
+commands:
+  dungeonTestElaine:
+    description: Test command for TheDungeon plugin
+    permission: elaineqheart.command.dungeontest

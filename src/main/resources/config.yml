@@ -1,0 +1,14 @@
+recipe:
+  pattern:
+    - "   "
+    - "IRI"
+    - "SSS"
+  ingredients:
+    I: "iron_bars"
+    R: "rotten_flesh"
+    S: "stone_bricks"
+reward:
+  type: "zombie_head"
+  name: "§dDungeon Helmet"
+  attributes:
+    armor: 10
